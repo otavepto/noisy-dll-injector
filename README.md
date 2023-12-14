@@ -1,4 +1,5 @@
 # noisy-dll-injector
+A classical dll injector using createremotethread.  
 
 ## Usage:  
 ```batch
